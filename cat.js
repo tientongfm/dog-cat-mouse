@@ -1,1 +1,3 @@
-cat.js
+function Cat() {
+	
+}
