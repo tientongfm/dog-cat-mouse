@@ -1,2 +1,2 @@
-
+var Cat = require('Cat');
 
