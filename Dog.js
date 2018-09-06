@@ -15,6 +15,9 @@ Dog.prototype.sayHi = function() {
 
 Dog.prototype.run = function(){
 	console.log('Run');
+
+Dog.prototype.sleep = function(){
+	console.log('Sleep...');
 };
 
 module.exports = Dog;  
