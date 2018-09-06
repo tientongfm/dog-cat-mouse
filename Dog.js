@@ -13,6 +13,9 @@ Dog.prototype.sayHi = function() {
 	console.log('Hi! I am dog. My name is ' + chalk.blue(this.name));
 };
 
+Dog.prototype.run = function(){
+	console.log('Run');
+
 Dog.prototype.sleep = function(){
 	console.log('Sleep...');
 };
